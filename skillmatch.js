@@ -218,5 +218,7 @@ finalizarAnalise(candidato.nome, mensagemFinal);
 
 
 //iniciar o programa
-iniciarSistema();
+iniciarSistema().then(() => {
+  console.log("\nSistema executado com sucesso.");
+});
 
