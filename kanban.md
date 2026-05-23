@@ -1,3 +1,7 @@
+Organização do trabalho realizada no Trello
+
+https://trello.com/invite/b/69e2daed84711f5c5d3c347b/ATTIe971918c3ca33cfae23ca48fb72765f93612A523/skillmatch-js
+
 • Criar repositório no GitHub
 • Criar arquivo skillmatch.js
 • Criar README.md
@@ -20,5 +24,7 @@
 • Testar o código no console
 
 • Atualizar README
+
+• Gravar vídeo
 
 • Enviar links no AVA
